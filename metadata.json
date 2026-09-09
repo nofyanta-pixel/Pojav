@@ -1,0 +1,6 @@
+{
+  "name": "PojavLauncher",
+  "description": "Minecraft Java Edition launcher for Android based on PojavLauncher with performance optimization, modpack customization, and offline account manager with custom skins & capes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
